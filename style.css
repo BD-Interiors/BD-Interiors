@@ -1,5 +1,4 @@
 :root {
-    background-image: url('Picture.jpg');
   --header: #F7F3EE;
   --background: #a6b996;
   --menu: #E8DED2;
@@ -29,8 +28,6 @@ a {
     text-decoration: none;
     color: var(--text);
 }
-
-
 
 header {
     
